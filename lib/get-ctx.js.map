@@ -1,0 +1,1 @@
+{"version":3,"file":"get-ctx.js","sourceRoot":"","sources":["../src/get-ctx.ts"],"names":[],"mappings":";;AAAA,IAAI,GAAiB,CAAC;AAET,QAAA,MAAM,GAAG,GAAG,EAAE;IACvB,IAAI,CAAC,GAAG,EAAE;QACN,GAAG,GAAG,IAAI,CAAE,MAAc,CAAC,YAAY;YAClC,MAAc,CAAC,kBAAkB,CAAC,EAAE,CAAC;KAC7C;IACD,OAAO,GAAG,CAAC;AACf,CAAC,CAAC"}
